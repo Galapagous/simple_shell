@@ -38,7 +38,7 @@ In order to run this program,
 
 Clone This Repo;
 
-`git clone https://github.com/TosinISOGUN/simple_shell.git`
+`git clone https://github.com/Galapagous/simple_shell.git`
 
 Compile it with;
 
@@ -207,6 +207,4 @@ $
 **Thank you for going through our shell documentation.**
 
 ## AUTHORS
-OLAWUNMI ENIOLA
-<br>
-QUEEN UNOGWU
+Muhammed Musa
